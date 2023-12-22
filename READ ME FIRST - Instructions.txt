@@ -6,6 +6,4 @@ The "images" folder contains snapshots of the running project
 
 The "FinalPresentaion" file contains a Microsoft presentation on the project it consist of 23 slides in total
 
-The "College Pro Final Report" contains the Final Report on the project in PDF format.
-
 The "Project Report" contains the Final Report in Word Document format.    

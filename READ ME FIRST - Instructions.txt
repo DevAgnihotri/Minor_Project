@@ -1,0 +1,11 @@
+To run the project:- 
+Open "Running project" folder then select the file named "Code", on clicking the file a login screen opens up, then fill 
+UserID=33 and Password=33, this would start the app.(More Admin details can be accessed from the admin database.)
+
+The "images" folder contains snapshots of the running project
+
+The "FinalPresentaion" file contains a Microsoft presentation on the project it consist of 23 slides in total
+
+The "College Pro Final Report" contains the Final Report on the project in PDF format.
+
+The "Project Report" contains the Final Report in Word Document format.    
